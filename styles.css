@@ -1,0 +1,33 @@
+
+body{
+	font-size: 16px;
+	background-color: gray;
+}
+
+#btn-replay{
+	display: none;
+}
+
+.guess-box{
+	padding: 20px;
+	margin-bottom: 25px;
+}
+.msg-success{
+	color:black;
+	font-size: 200%;
+	
+}
+.main{
+	text-align: center;
+	min-height: 30px;
+}
+#user-input{
+	margin-bottom: 10px;
+}
+.instruct{
+	margin-top: 50px;
+	background-color: #ebefed;
+	padding: 5px;
+	text-align: left;
+	list-style:!important;
+}
